@@ -20,6 +20,7 @@ namespace Snek
             char sym1 = '*';
             Draw(x, y, sym1);
             Console.ReadKey();
+
         }
     }
 }
