@@ -19,7 +19,8 @@ namespace Snek
             int y = 3;
             char sym1 = '*';
             Draw(x, y, sym1);
-            Console.ReadKey();
+            Console.ReadKey(); 
+
         }
     }
 }
